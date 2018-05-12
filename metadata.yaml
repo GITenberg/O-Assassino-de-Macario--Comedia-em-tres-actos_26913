@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26913#O-Assassino-de-Macario--Comedia-em-tres-actos
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2008-10-13'
 gutenberg_type: Text
